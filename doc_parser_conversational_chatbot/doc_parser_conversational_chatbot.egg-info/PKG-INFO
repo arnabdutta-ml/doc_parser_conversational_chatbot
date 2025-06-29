@@ -1,0 +1,34 @@
+Metadata-Version: 2.4
+Name: doc_parser_conversational_chatbot
+Version: 0.1.0
+Summary: A CLI chatbot to query PDF and DOCX files using OpenAI and FAISS
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: openai
+Requires-Dist: pymupdf
+Requires-Dist: faiss-cpu
+Requires-Dist: python-docx
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Doc Parser Conversational Chatbot
+
+A command-line tool to chat with the contents of PDF and DOCX files in a folder, using OpenAI GPT models with FAISS-based retrieval.
+
+## Features
+- Reads all .pdf and .docx files in a given folder
+- Uses OpenAI Embeddings and FAISS for semantic search
+- Chat with context-aware or general GPT modes
+- Supports both document-specific and general chat queries
+
+## Installation
+
+Clone this repo:

@@ -1,0 +1,2 @@
+[console_scripts]
+doc-parser-chatbot = doc_parser_conversational_chatbot.chatbot:main

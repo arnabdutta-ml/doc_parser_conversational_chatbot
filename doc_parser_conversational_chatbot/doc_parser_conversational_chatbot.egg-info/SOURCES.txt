@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+bin/.DS_Store
+bin/__init__.py
+bin/chatbot.py
+bin/run_chatbot.py
+doc_parser_conversational_chatbot.egg-info/PKG-INFO
+doc_parser_conversational_chatbot.egg-info/SOURCES.txt
+doc_parser_conversational_chatbot.egg-info/dependency_links.txt
+doc_parser_conversational_chatbot.egg-info/entry_points.txt
+doc_parser_conversational_chatbot.egg-info/requires.txt
+doc_parser_conversational_chatbot.egg-info/top_level.txt
