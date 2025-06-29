@@ -1,0 +1,4 @@
+openai
+pymupdf
+faiss-cpu
+python-docx
